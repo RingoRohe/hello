@@ -1,0 +1,30 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "Jair Reina's information",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaireina/presentation.git"
+  },
+  "bin": {
+    "presentation": "./index.js"
+  },
+  "keywords": [
+    "contact",
+    "jair",
+    "reina",
+    "info",
+    "information"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaireina/presentation/issues"
+  },
+  "homepage": "https://github.com/jaireina/presentation#readme",
+  "dependencies": {
+    "figlet": "^1.2.1"
+  }
+}
